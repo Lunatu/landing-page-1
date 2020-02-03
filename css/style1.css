@@ -557,13 +557,13 @@ p {
 .header {
     height: 75px;
     padding: 33px 0;
-	float: left;
 	
 }
 
 .logo {
     display: inline-block;
     margin-left: 33px 0;
+	float: left;
 
 }
 
