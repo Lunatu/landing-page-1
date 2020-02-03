@@ -557,6 +557,8 @@ p {
 .header {
     height: 75px;
     padding: 33px 0;
+	float: left;
+	
 }
 
 .logo {
